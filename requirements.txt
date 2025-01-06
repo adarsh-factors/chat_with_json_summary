@@ -1,6 +1,5 @@
-streamlit
-pandasai==0.6.0
 python-dotenv
 numpy==1.24.3
-pandas==2.1.1
-streamlit==1.26.0
+streamlit==1.27.0
+pandas==1.5.3
+pandasai==1.2.0
